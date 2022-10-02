@@ -1,0 +1,14 @@
+C:\Users\celal\Desktop\Ders\Nesne Tabanlı Programlama\Uygulamalar\MiniATM\MiniATM\bin\Debug\netcoreapp3.1\MiniATM.exe
+C:\Users\celal\Desktop\Ders\Nesne Tabanlı Programlama\Uygulamalar\MiniATM\MiniATM\bin\Debug\netcoreapp3.1\MiniATM.deps.json
+C:\Users\celal\Desktop\Ders\Nesne Tabanlı Programlama\Uygulamalar\MiniATM\MiniATM\bin\Debug\netcoreapp3.1\MiniATM.runtimeconfig.json
+C:\Users\celal\Desktop\Ders\Nesne Tabanlı Programlama\Uygulamalar\MiniATM\MiniATM\bin\Debug\netcoreapp3.1\MiniATM.runtimeconfig.dev.json
+C:\Users\celal\Desktop\Ders\Nesne Tabanlı Programlama\Uygulamalar\MiniATM\MiniATM\bin\Debug\netcoreapp3.1\MiniATM.dll
+C:\Users\celal\Desktop\Ders\Nesne Tabanlı Programlama\Uygulamalar\MiniATM\MiniATM\bin\Debug\netcoreapp3.1\MiniATM.pdb
+C:\Users\celal\Desktop\Ders\Nesne Tabanlı Programlama\Uygulamalar\MiniATM\MiniATM\obj\Debug\netcoreapp3.1\MiniATM.csproj.AssemblyReference.cache
+C:\Users\celal\Desktop\Ders\Nesne Tabanlı Programlama\Uygulamalar\MiniATM\MiniATM\obj\Debug\netcoreapp3.1\MiniATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celal\Desktop\Ders\Nesne Tabanlı Programlama\Uygulamalar\MiniATM\MiniATM\obj\Debug\netcoreapp3.1\MiniATM.AssemblyInfoInputs.cache
+C:\Users\celal\Desktop\Ders\Nesne Tabanlı Programlama\Uygulamalar\MiniATM\MiniATM\obj\Debug\netcoreapp3.1\MiniATM.AssemblyInfo.cs
+C:\Users\celal\Desktop\Ders\Nesne Tabanlı Programlama\Uygulamalar\MiniATM\MiniATM\obj\Debug\netcoreapp3.1\MiniATM.csproj.CoreCompileInputs.cache
+C:\Users\celal\Desktop\Ders\Nesne Tabanlı Programlama\Uygulamalar\MiniATM\MiniATM\obj\Debug\netcoreapp3.1\MiniATM.dll
+C:\Users\celal\Desktop\Ders\Nesne Tabanlı Programlama\Uygulamalar\MiniATM\MiniATM\obj\Debug\netcoreapp3.1\MiniATM.pdb
+C:\Users\celal\Desktop\Ders\Nesne Tabanlı Programlama\Uygulamalar\MiniATM\MiniATM\obj\Debug\netcoreapp3.1\MiniATM.genruntimeconfig.cache
